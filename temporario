@@ -4,3 +4,11 @@ ProcessoAdocao
 - status: StatusProcesso
 - dataAbertura: LocalDate
 - dataConclusao: LocalDate
+- visita: List<Visita>
+
+
+Visita
+- data: LocalDate
+- situacaoAnimal: String
+- observacoes: String
+- concluida: boolean
