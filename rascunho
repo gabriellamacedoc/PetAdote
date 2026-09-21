@@ -1,0 +1,11 @@
+*Classes
+
+Abrigo
+- nome: String
+- endereco: String
+- capacidade: int
+- animais: List<Animal>
++ adicionarAnimal(animal)
++ removerAnimal(animal)
++ podeExcluir(): boolean
+
