@@ -53,7 +53,7 @@ JavaFX, TheDogAPI (https://www.thedogapi.com — requer chave gratuita via cadas
 Requisito bônus (opcional, fora da contagem oficial): gerar uma página HTML estática tipo "vitrine" com os animais disponíveis para adoção (foto/raça vindos da API), aberta automaticamente no navegador via `Desktop.getDesktop().browse()`.
 
 ## Integrantes do grupo com nome completo
-* Ana Clara de Lira Florentino e Silva -
+* Ana Clara de Lira Florentino e Silva - ana.florentino@ufrpe.br
 * Ana Helena de Souza Macedo - 
 * Júlia Lavínia Rodrigues Pedrosa de Carvalho -
 * Laura da Costa Corte Cordeiro - 
