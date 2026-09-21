@@ -36,5 +36,7 @@ Adotante
 - nome: String
 - cpf: String
 - endereco: String
-+ quantAnimal: int
+- quantAnimal: int
+- processos: List<ProcessoAdocao>
++ contarProcessosConcluidosAtivos(): int
 
