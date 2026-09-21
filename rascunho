@@ -9,3 +9,28 @@ Abrigo
 + removerAnimal(animal)
 + podeExcluir(): boolean
 
+Animal
+- nome: String
+- dataNascimento: Date
+- status: StatusAnimal
+- abrigo: Abrigo
++ podeIniciarProcessoAdocao(): boolean
+
+Cao extends Animal
+- raca: String
+- infoRaca: InfoRaca
+
+Gato extends Animal
+- raca: String
+- infoRaca: InfoRaca
+
+Outro extends Animal
+- especie: String
+
+InfoRaca
+- porte: String
+- pesoMedio: double
+- temperamento: String
+
+
+
