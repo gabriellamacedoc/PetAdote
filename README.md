@@ -56,5 +56,5 @@ Requisito bônus (opcional, fora da contagem oficial): gerar uma página HTML es
 * Ana Clara de Lira Florentino e Silva - ana.florentino@ufrpe.br
 * Ana Helena de Souza Macedo - 
 * Júlia Lavínia Rodrigues Pedrosa de Carvalho -
-* Laura da Costa Corte Cordeiro - 
+* Laura da Costa Corte Cordeiro - laura.corte@ufrpe.br
 * Maria Gabriella Macedo Cardoso - maria.gabriellamacedo@ufrpe.br
