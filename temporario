@@ -1,0 +1,6 @@
+ProcessoAdocao
+- animal: Animal
+- adotante: Adotante
+- status: StatusProcesso
+- dataAbertura: LocalDate
+- dataConclusao: LocalDate
