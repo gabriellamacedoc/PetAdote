@@ -32,5 +32,9 @@ InfoRaca
 - pesoMedio: double
 - temperamento: String
 
-
+Adotante
+- nome: String
+- cpf: String
+- endereco: String
++ quantAnimal: int
 
