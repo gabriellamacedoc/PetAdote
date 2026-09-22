@@ -5,6 +5,7 @@ ProcessoAdocao
 - dataAbertura: LocalDate
 - dataConclusao: LocalDate
 - visitas: List<Visita>
+- avaliacoes: List<Avaliacao>
 
 
 Visita
@@ -13,3 +14,8 @@ Visita
 - observacoes: String
 - concluida: boolean
 + registrarResultado(situacao: String, obs:String): void
+
+Avaliacao
+- data: LocalDate
+- responsavel: String
+- parecer: Parecer
