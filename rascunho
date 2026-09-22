@@ -11,7 +11,7 @@ Abrigo
 
 Animal
 - nome: String
-- dataNascimento: Date
+- dataNascimento: LocalDate
 - status: StatusAnimal
 - abrigo: Abrigo
 + podeIniciarProcessoAdocao(): boolean
