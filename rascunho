@@ -65,4 +65,5 @@ Avaliacao
 - data: LocalDate
 - responsavel: String
 - parecer: Parecer
+- observacao: String
 
