@@ -12,3 +12,4 @@ Visita
 - situacaoAnimal: String
 - observacoes: String
 - concluida: boolean
++ registrarResultado(situacao: String, obs:String): void
