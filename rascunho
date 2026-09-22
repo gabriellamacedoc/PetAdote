@@ -5,8 +5,8 @@ Abrigo
 - endereco: String
 - capacidade: int
 - animais: List<Animal>
-+ adicionarAnimal(animal)
-+ removerAnimal(animal)
++ adicionarAnimal(animal: Animal): void
++ removerAnimal(animal: Animal): void
 + podeExcluir(): boolean
 
 Animal
