@@ -27,6 +27,7 @@ Gato extends Animal
 Outro extends Animal
 - especie: String
 
+
 InfoRaca
 - porte: String
 - pesoMedio: double
@@ -39,4 +40,25 @@ Adotante
 - quantAnimal: int
 - processos: List<ProcessoAdocao>
 + contarProcessosConcluidosAtivos(): int
+
+ProcessoAdocao
+- animal: Animal
+- adotante: Adotante
+- status: StatusProcesso
+- dataAbertura: LocalDate
+- dataConclusao: LocalDate
+- visitas: List<Visita>
+- avaliacoes: List<Avaliacao>
+
+Visita
+- data: LocalDate
+- situacaoAnimal: String
+- observacoes: String
+- concluida: boolean
++ registrarResultado(situacao: String, obs:String): void
+
+Avaliacao
+- data: LocalDate
+- responsavel: String
+- parecer: Parecer
 
