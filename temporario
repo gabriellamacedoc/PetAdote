@@ -4,7 +4,7 @@ ProcessoAdocao
 - status: StatusProcesso
 - dataAbertura: LocalDate
 - dataConclusao: LocalDate
-- visita: List<Visita>
+- visitas: List<Visita>
 
 
 Visita
