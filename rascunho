@@ -49,6 +49,9 @@ ProcessoAdocao
 - dataConclusao: LocalDate
 - visitas: List<Visita>
 - avaliacoes: List<Avaliacao>
++ agendarVisita(visita: Visita): void
++ registarAvaliacao(avaliacao: Avaliacao): void
++ concluirProcesso(): void
 
 Visita
 - data: LocalDate
