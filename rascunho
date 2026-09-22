@@ -50,7 +50,7 @@ ProcessoAdocao
 - visitas: List<Visita>
 - avaliacoes: List<Avaliacao>
 + agendarVisita(visita: Visita): void
-+ registarAvaliacao(avaliacao: Avaliacao): void
++ registrarAvaliacao(avaliacao: Avaliacao): void
 + concluirProcesso(): void
 + avaliacaoFavoravel(): boolean
 
