@@ -81,6 +81,7 @@ StatusProcesso
 - EM_AVALIACAO
 - APROVADO
 - NEGADO
+- CONCLUIDO
 
 <<enumeration>>
 Parecer
