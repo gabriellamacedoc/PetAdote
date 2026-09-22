@@ -52,6 +52,7 @@ ProcessoAdocao
 + agendarVisita(visita: Visita): void
 + registarAvaliacao(avaliacao: Avaliacao): void
 + concluirProcesso(): void
++ avaliacaoFavoravel(): boolean
 
 Visita
 - data: LocalDate
