@@ -68,3 +68,9 @@ Avaliacao
 - parecer: Parecer
 - observacao: String
 
+<<enumeration>>
+StatusAnimal
+- DISPONIVEL
+- EM_TRATAMENTO_VETERINARIO
+- ADOTADO
+
