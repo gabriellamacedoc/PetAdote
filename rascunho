@@ -8,6 +8,7 @@ Abrigo
 + adicionarAnimal(animal: Animal): void
 + removerAnimal(animal: Animal): void
 + podeExcluir(): boolean
++ temVagaDisponivel(): boolean
 
 Animal
 - nome: String
