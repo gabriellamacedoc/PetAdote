@@ -66,6 +66,6 @@ Requisito bônus (opcional, fora da contagem oficial): gerar uma página HTML es
 
  ## Link
 
- [https://github.com/seu-usuario/PetAdote](https://github.com/seu-usuario/PetAdote)
+ [https://github.com/lauraccort/PetAdote.git](https://github.com/lauraccort/PetAdote.git)
 
- https://github.com/lauraccort/PetAdote.git
+ 
