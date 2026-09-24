@@ -58,3 +58,5 @@ Requisito bônus (opcional, fora da contagem oficial): gerar uma página HTML es
 * Júlia Lavínia Rodrigues Pedrosa de Carvalho - julia.lavinia@ufrpe.br
 * Laura da Costa Corte Cordeiro - laura.corte@ufrpe.br
 * Maria Gabriella Macedo Cardoso - maria.gabriellamacedo@ufrpe.br
+
+ ![Diagrama de Classes](PetAdote-página-1.drawio.png) 
