@@ -1,9 +1,5 @@
 package br.com.petadote.model;
 
-/**
- * Informações reais da raça obtidas de APIs públicas
- * (TheDogAPI / TheCatAPI): porte, peso médio e temperamento.
- */
 public class InfoRaca {
     private String porte;
     private double pesoMedio;
