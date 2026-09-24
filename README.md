@@ -59,4 +59,6 @@ Requisito bônus (opcional, fora da contagem oficial): gerar uma página HTML es
 * Laura da Costa Corte Cordeiro - laura.corte@ufrpe.br
 * Maria Gabriella Macedo Cardoso - maria.gabriellamacedo@ufrpe.br
 
+## Diagrama de classes em UML
+
  ![Diagrama de Classes](PetAdote-Pagina-1.drawio.png) 
