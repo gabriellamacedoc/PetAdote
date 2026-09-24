@@ -59,4 +59,4 @@ Requisito bônus (opcional, fora da contagem oficial): gerar uma página HTML es
 * Laura da Costa Corte Cordeiro - laura.corte@ufrpe.br
 * Maria Gabriella Macedo Cardoso - maria.gabriellamacedo@ufrpe.br
 
- ![Diagrama de Classes](PetAdote-página-1.drawio.png) 
+ ![Diagrama de Classes](PetAdote-Pagina-1.drawio.png) 
